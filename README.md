@@ -32,6 +32,7 @@ This repository has the following Projects.
 - [AI_Attendence_Program](https://github.com/Shahrayar123/Python-Projects/tree/master/AI_Attendence_Program)
 - [FaceRecognition](https://github.com/Shahrayar123/Python-Projects/tree/master/FaceRecgonition)
 - [QR Code generator](https://github.com/Shahrayar123/Python-Projects/tree/master/QR%20Code)
+-[YOLOv8 for Car Counting](https://github.com/mostaphaelansari/YOLOv8-for-Car-Counting)
 
 ### Other projects (not yet validated).
 - [AirCanvas](https://github.com/Shahrayar123/Python-Projects/tree/master/AirCanvas)
